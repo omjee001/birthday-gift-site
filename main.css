@@ -52,7 +52,7 @@ h1,h2,h4{
 .gift-section{
     margin-top: 50px;
 }
-#gift-img-happy{
+#gift-img-happy:hover{
     background-image: url("img/happi.webp");
 }
 #gift-img-cold:hover{
